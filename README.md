@@ -1,3 +1,3 @@
 # flutter_test_application
 
-A new Flutter project.
+Тестовый проект для НПЦ "СЭС"
